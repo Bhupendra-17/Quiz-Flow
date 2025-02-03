@@ -4,6 +4,9 @@
 
 Quiz-Flow is a web application that allows users to take quizzes and view their results. The application is built with React for the frontend and Express for the backend.
 
+![Quiz-Flow Screenshot](./client/src/assets/ss1.png)
+![Quiz-Flow Screenshot2](./client/src/assets/ss2.png)
+![Quiz-Flow Screenshot3](./client/src/assets/ss3.png)
 ## Project Structure
 
 ## Getting Started
